@@ -13,3 +13,8 @@ You can move the position of the cells
 
 
 ![](https://media.giphy.com/media/AS5sqlDdQ4ko1sbVHy/giphy.gif)
+
+
+It is possible to filter the cells
+
+![](https://media.giphy.com/media/6woYYT4PbkwNktfPeC/giphy.gif)
