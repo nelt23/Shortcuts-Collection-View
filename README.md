@@ -10,3 +10,6 @@ It is possible to delete the cells in the collection View
 
 
 You can move the position of the cells
+
+
+![](https://media.giphy.com/media/AS5sqlDdQ4ko1sbVHy/giphy.gif)
